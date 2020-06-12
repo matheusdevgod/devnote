@@ -1,0 +1,27 @@
+body {
+  width:940px;
+}
+header {
+    
+}
+.logo {
+    float:left;
+    font-family:Candy Randy, cursive, serif;
+}
+header li {
+    display:inline;
+    float:right;
+    padding:20px 15px 0 0;
+    font-size:30px;
+}
+section {
+    clear:both;
+}
+.Python {
+    background-image:url(imagens/Pythonimagem.jpg);
+    text-indent:-9999px;
+    background-size:100px 100px;
+    background-repeat:no-repeat;
+    height:100px;
+    
+}
